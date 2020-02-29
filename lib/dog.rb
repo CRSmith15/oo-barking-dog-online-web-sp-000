@@ -2,6 +2,6 @@
 class Dog 
   
   def name= 
-  
-end
+    puts "Bob"
+  end
 end
